@@ -1,5 +1,5 @@
 # Small-Quotients-of-Braids
-Computer code used to verify the non-existence of certain homomorphisms from braid groups. 
+This contains the computer code used to verify the non-existence of certain homomorphisms from braid groups. 
 
 TotallySymmetricSets.sage contains all basic functions relating to totally symmetric sets.
 
